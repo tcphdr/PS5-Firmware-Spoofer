@@ -3,7 +3,7 @@
 
 ---
 
-# PS5 Firmware Spoofer (GPU DMA Method)
+# Description
 
 Payload that leverages the GPU's Direct Memory Access (DMA) engine to bypass hypervisor memory protections. By utilizing the GPU to perform arbitrary writes to the kernel's `.data` section, this payload successfully spoofs system firmware and SDK versions without tripping CPU-level execution traps.
 
