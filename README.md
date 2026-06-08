@@ -14,7 +14,7 @@ Payload that leverages the GPU's Direct Memory Access (DMA) engine to bypass hyp
 | **Tested Firmware** | 11.20 *(Offsets must be modified for other versions)* |
 | **Execution Vector** | GPU DMA (`/dev/gc`) |
 | **Spoofed Version** | `0x99999999` (99.99) |
-| **Target Sysctls** | `kern.ps4_sdk_version`, `machdep.upd_version` |
+| **Target Sysctls** | `kern.ps4_sdk_version`, `kern.sdk_version`, `machdep.upd_version` |
 
 ## How It Works
 
