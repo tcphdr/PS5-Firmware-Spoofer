@@ -1,5 +1,5 @@
 # ⚠️ **WARNING: HARDCODED OFFSETS** ⚠️
-**This payload currently relies on hardcoded kernel offsets specific to Firmware 11.20. Running this unmodified on any other firmware version will NOT WORK. Plans are currently in motion to adapt this payload to dynamically resolve offsets or support a broader range of firmwares as well as version specifications as development continues.**
+**This payload currently relies on hardcoded kernel offsets specific to Firmware 11.20. Running this unmodified on any other firmware version will NOT WORK. Since there is no real gain from doing this, there will be no more updates or continued support.**
 
 ---
 
